@@ -2,4 +2,6 @@
     <string name="app_name">English For Kids</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_lesson_1_string">Lesson 1</string>
+    <string name="text_category_name">Animal</string>
 </resources>

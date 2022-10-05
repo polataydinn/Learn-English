@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/custom_category_radius_background.xml" value="0.2585" />
         <entry key="app/src/main/res/drawable/ic_apple_stick.xml" value="0.2585" />
+        <entry key="app/src/main/res/drawable/ic_colored_apple.xml" value="0.123" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2585" />
-        <entry key="app/src/main/res/layout/custom_category_item.xml" value="0.4185549380076956" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/custom_category_item.xml" value="0.4018573237653018" />
         <entry key="app/src/main/res/layout/fragment_category.xml" value="0.4194100042753313" />
         <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.41409877585479105" />
       </map>
